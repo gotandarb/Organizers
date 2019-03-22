@@ -9,7 +9,7 @@
 ## Organizers
 - [m-nakamura145](https://github.com/m-nakamura145)
 - [walkersumida](https://github.com/walkersumida)
-- [joooee0000](https://twitter.com/joooee0000)
+- [joooee0000](https://github.com/joooee0000)
 - [f-teruhisa](https://github.com/f-teruhisa)
 
 ## Links
