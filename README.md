@@ -1,9 +1,10 @@
 # For Organizers
 ![bar_image](https://connpass-tokyo.s3.amazonaws.com/thumbs/d9/0d/d90d106c9c08fa48bf7c05a497eb83dd.png)
+
 ## Management
 - We usually communicate on [Slack](https://gotandarb.slack.com)
 - We report and announce events on [connpass](https://gotanda-rb.connpass.com/)
-- Our Twitter hashtag is `#gotandarb`, Let's actively utilize it to energize the community
+- Our Twitter hashtag is [#gotandarb](https://twitter.com/search?q=%23gotandarb), Let's actively utilize it to energize the community
 
 ## Organizers
 - [m-nakamura145](https://github.com/m-nakamura145)
