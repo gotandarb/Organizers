@@ -9,8 +9,10 @@
 - [walkersumida](https://github.com/walkersumida)
 - [joooee0000](https://github.com/joooee0000)
 - [f-teruhisa](https://github.com/f-teruhisa)
+- [yutadayo](https://github.com/yutadayo)
 
 ## Links
 - connpass:https://gotanda-rb.connpass.com/
 - Github:https://github.com/gotandarb
 - Slack:https://gotandarb.slack.com
+- Twitter:https://twitter.com/gotandarb
